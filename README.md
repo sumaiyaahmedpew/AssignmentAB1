@@ -134,7 +134,7 @@ items = [1, "apple", 3.5, "banana", True, 42, "cherry", 2.7]
   5. Exit
 * Use while loop for menu until exit.
 
-### **Problem 1 – Scientific Calculator with Modes**
+### **Problem 11 – Scientific Calculator with Modes**
 
 A **menu-driven scientific calculator** with two modes:
 
@@ -155,7 +155,7 @@ A **menu-driven scientific calculator** with two modes:
      * Trigonometric functions (sin, cos, tan)
 
 
-###  **Problem 2 – Student Report Card Generator**
+###  **Problem 12 – Student Report Card Generator**
 
 A program to generate a **student report card**:
 
@@ -172,7 +172,7 @@ A program to generate a **student report card**:
 * Bonus Feature: **Swap roll and average marks** using Python multiple assignment
 
 
-### **Problem 3 – Secure Login & Utility Program**
+### **Problem 13 – Secure Login & Utility Program**
 
 A **secure login system** followed by a **multi-utility program**:
 
