@@ -134,4 +134,71 @@ items = [1, "apple", 3.5, "banana", True, 42, "cherry", 2.7]
   5. Exit
 * Use while loop for menu until exit.
 
+### **Problem 1 – Scientific Calculator with Modes**
+
+A **menu-driven scientific calculator** with two modes:
+
+1. **Basic Mode**
+
+   * Perform arithmetic operations (`+ - * / // % **`)
+   * Handle divide by zero
+   * Option to **swap numbers** before calculation
+
+2. **Advanced Mode**
+
+   * **Number System Conversion**: Decimal → Binary, Octal, Hex; Binary → Decimal
+   * **Bitwise Calculator**: AND, OR, XOR, NOT (\~)
+   * **Geometry Calculator**:
+
+     * Circle area & circumference
+     * Square root of area
+     * Trigonometric functions (sin, cos, tan)
+
+
+###  **Problem 2 – Student Report Card Generator**
+
+A program to generate a **student report card**:
+
+* Input: name, roll number, marks in 5 subjects
+* Calculates:
+
+  * Total and average marks
+  * Grade (A+, A, B, C, D, Fail) using if-elif-else
+  * Even/Odd roll check using bitwise operator
+* Output Options:
+
+  * **Normal Mode** → Print directly
+  * **Encoded Mode** → Roll converted to binary, Grade shown as ASCII codes
+* Bonus Feature: **Swap roll and average marks** using Python multiple assignment
+
+
+### **Problem 3 – Secure Login & Utility Program**
+
+A **secure login system** followed by a **multi-utility program**:
+
+* **Login System**
+
+  * Username/Password authentication
+  * Maximum 3 attempts allowed
+
+* **Utility Menu**
+
+  1. Number System Converter (Decimal ↔ Binary/Octal/Hex)
+  2. Bitwise Operations (AND, OR, XOR, NOT)
+  3. Trigonometry Calculator (sin, cos, tan)
+  4. Grade Calculator (marks → grade + even/odd check)
+  5. Exit
+
+## Topics Covered Today
+
+* Variables & Multiple Assignment (Swapping)
+* User Input & Command-Line Interaction
+* If-Elif-Else Conditionals
+* Number System Conversion (binary, octal, hex)
+* Bitwise Operators (AND, OR, XOR, NOT)
+* Math Module (`math.pi`, `math.sqrt`, `math.radians`, `math.sin`, etc.)
+* Loops & Menu-Driven Programs
+* Login Authentication Logic
+
+
 
