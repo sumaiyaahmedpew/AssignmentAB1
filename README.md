@@ -189,7 +189,7 @@ A **secure login system** followed by a **multi-utility program**:
   4. Grade Calculator (marks → grade + even/odd check)
   5. Exit
 
-## Topics Covered Today
+## Topics Covered Today (20-08-25)
 
 * Variables & Multiple Assignment (Swapping)
 * User Input & Command-Line Interaction
